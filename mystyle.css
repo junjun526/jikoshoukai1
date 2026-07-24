@@ -1,1 +1,2 @@
-body{ background:#eef7ee; } h1{ background:#0b6623; /* 野球場っぽい緑 */ } h3{ border-left:6px solid orange; color:#0b6623; } th{ background:#0b6623; }
+h1{ background:linear-gradient(to right,#4facfe,#00c6fb); color:white; padding:15px; border-radius:10px; text-align:center; }
+h2{ color:#0077b6; border-left:8px solid #00b4d8; padding-left:10px; }
